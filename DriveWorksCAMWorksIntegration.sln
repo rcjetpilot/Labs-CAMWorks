@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DriveWorksCAMWorksIntegration", "DriveWorksCAMWorksIntegration.vbproj", "{3DE76EA5-FFFC-4E71-9BCE-83A59D789E25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4CB88BB9-50E1-4CB1-9F42-A4C8292365F0}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE76EA5-FFFC-4E71-9BCE-83A59D789E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE76EA5-FFFC-4E71-9BCE-83A59D789E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE76EA5-FFFC-4E71-9BCE-83A59D789E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE76EA5-FFFC-4E71-9BCE-83A59D789E25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
